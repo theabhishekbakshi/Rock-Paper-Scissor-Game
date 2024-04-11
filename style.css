@@ -11,7 +11,7 @@ body {
 
 
 h1 {
-    background: linear-gradient(0deg, #081b31, grey);
+    background: linear-gradient(0deg, rgb(51, 193, 206), grey);
     color: #fff;
     height: 6rem;
     line-height: 6rem;
